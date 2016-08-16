@@ -1,0 +1,2 @@
+# wordpresspluginskeleton
+Wordpress Plugins Skeleton
